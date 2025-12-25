@@ -17,8 +17,8 @@ echo "" // : : 888 8888D 888C8    Y8b  888 C8888 eeee b Y88b Y 888C8   888 88"  
 echo "" // : : 888 888P  888 ",d b Y8D 888  Y888 888P 8b Y88b  888 ",d 888 b,   888 "    e Y8b     ,*"   ,e8P   : :
 echo "" // : : 888 88"   888,d88 8edP  888   "88 88"  88b Y88b 888,d88 888 88b, 888     d8b Y8b  8888888 88P    : :
 echo "" // '·:..................................................................................................:·'
-
-
+echo ""
+echo ""
 echo "                          🚀 PREMIUM PROXY AUTO-INSTALLER"
 echo "                     Telegram Support: https://t.me/Designerfx27"
 echo ""
